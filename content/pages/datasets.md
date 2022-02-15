@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Datasets
 uid: e276c107-67b9-4674-a212-bb217c47f9ba
 ---

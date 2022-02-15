@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 5e0e033b-44c4-f6b8-5320-af5d09357eb0
 ---
@@ -46,20 +48,6 @@ Instructor Insights
 _In the following paper, Professor Cynthia Rudin describes various aspects of how she taught_ 15.097 Prediction: Machine Learning and Statistics_. Topics include the organizational structure of the course and the strategy of using of large-font lecture notes._ 
 
 [Teaching "Prediction: Machine learning and Statistics” (PDF)]({{< baseurl >}}/resources/teachingpaper)
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with 5 tired and curved rows of tables. Red chairs positioned behind the tables. Three sliding chalkboards at the front of the room.]({{< resource_file 60d533fd-8eac-ec54-723a-a8b6d3673df9 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with tiered seating, AV equipment, and sliding chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
