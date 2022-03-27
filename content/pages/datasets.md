@@ -32,7 +32,7 @@ DESCRIPTIONS
 Real
 {{< tdclose >}}
 {{< tdopen >}}
-[Iris description (TXT)](./resolveuid/31f9cdf90c2815829196d63bb1081ba1)
+[Iris description (TXT)]({{< baseurl >}}/resources/iris_info)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +44,7 @@ Real
 Integer, real
 {{< tdclose >}}
 {{< tdopen >}}
-[Wine description (TXT)](./resolveuid/195aef8a9332ab8039231d4c96e6dea1)
+[Wine description (TXT)]({{< baseurl >}}/resources/wine_info)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,19 +56,19 @@ Integer, real
 Integer
 {{< tdclose >}}
 {{< tdopen >}}
-[Haberman description (TXT)](./resolveuid/44d1e85bec996f6fd6dac0cc77e7d23f)
+[Haberman description (TXT)]({{< baseurl >}}/resources/haberman_info)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Housing (TXT)](./resolveuid/95bc584e411a014b3ac1cbe9c9b557c5)
+[Housing (TXT)]({{< baseurl >}}/resources/housing)
 {{< tdclose >}}
 {{< tdopen >}}
 Categorical, integer, real
 {{< tdclose >}}
 {{< tdopen >}}
-[Housing description (TXT)](./resolveuid/816d94fe6f3f34e665286e69f52c6c70)
+[Housing description (TXT)]({{< baseurl >}}/resources/housing_info)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +80,7 @@ Categorical, integer, real
 Integer
 {{< tdclose >}}
 {{< tdopen >}}
-[Transfusion description (TXT)](./resolveuid/11362c491905bb50be248e9ea77987d2)
+[Transfusion description (TXT)]({{< baseurl >}}/resources/transfusion_info)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ Integer
 Categorical
 {{< tdclose >}}
 {{< tdopen >}}
-[Car description (TXT)](./resolveuid/65cc8232926ddcbfb7dbd30e67679229)
+[Car description (TXT)]({{< baseurl >}}/resources/careval_info)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Categorical
 Binary
 {{< tdclose >}}
 {{< tdopen >}}
-[Mushroom description (TXT)](./resolveuid/574a3672c66d4f4004ef6e5c5342b355)
+[Mushroom description (TXT)]({{< baseurl >}}/resources/mushroom_info)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +116,7 @@ Binary
 Integer
 {{< tdclose >}}
 {{< tdopen >}}
-[Digits description (TXT)](./resolveuid/d1cfd95258db2d252fd921b39805907d)
+[Digits description (TXT)]({{< baseurl >}}/resources/digits_info)
 {{< tdclose >}}
 
 {{< trclose >}}
