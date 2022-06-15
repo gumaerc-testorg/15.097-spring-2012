@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of housing.
-file: /media/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/95bc584e411a014b3ac1cbe9c9b557c5_housing.txt
+file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/95bc584e411a014b3ac1cbe9c9b557c5_housing.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: housing.txt
 uid: 95bc584e-411a-014b-3ac1-cbe9c9b557c5
 ---
+This is a special file of housing.
+

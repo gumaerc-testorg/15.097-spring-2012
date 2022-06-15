@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of Iris.
-file: /media/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/31f9cdf90c2815829196d63bb1081ba1_iris_info.txt
+file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/31f9cdf90c2815829196d63bb1081ba1_iris_info.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: iris_info.txt
 uid: 31f9cdf9-0c28-1582-9196-d63bb1081ba1
 ---
+This is a special file of Iris.
+

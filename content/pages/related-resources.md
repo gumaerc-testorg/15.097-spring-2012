@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section provides background papers on data mining and CRISP-DM resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 862ab386-76b5-c53a-8db3-c312e1fc22a2
+video_metadata:
+  youtube_id: null
 ---
 
 Background Papers
@@ -18,6 +21,6 @@ Fayyad, Usama, Gregory Piatetsky-Shapiro, et al. "From Data Mining to Knowledge 
 CRISP-DM Resources
 ------------------
 
-[A Visual Guide to CRISP-DM Methodology (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://exde.files.wordpress.com/2009/03/crisp_visualguide.pdf)
+[A Visual Guide to CRISP-DM Methodology (PDF)](http://exde.files.wordpress.com/2009/03/crisp_visualguide.pdf)
 
-[CRISP-DM 1.0: Step-by-step Data Mining Guide (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](ftp://ftp.software.ibm.com/software/analytics/spss/support/Modeler/Documentation/14/UserManual/CRISP-DM.pdf)
+[CRISP-DM 1.0: Step-by-step Data Mining Guide (PDF)](ftp://ftp.software.ibm.com/software/analytics/spss/support/Modeler/Documentation/14/UserManual/CRISP-DM.pdf)

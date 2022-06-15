@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section contains a project description, a list of project components,
+  suggested topics, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 0d9ec76a-b460-bb80-b298-4e92ef5a9be6
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains a project description, suggested topics, and examples of student work.
@@ -16,7 +20,7 @@ The course project will be a major component of the course grade. You are welcom
 
 For experimental projects, you must provide insight as to why certain algorithms perform better than others for your dataset. Note that applying many different algorithms to one dataset and reporting test results does not constitute a project. Also, the application to your data must be novel (you should not use a well-studied dataset, or at least you need to use it in a new way). For algorithmic papers, you should introduce a new algorithm or set of algorithms for solving a problem, and also discuss under what assumptions the methods should work and under what conditions they will fail. For theoretical projects, you must prove something new. It is possible (and desirable, but not always practical) to have a project that is a combination of theoretical and experimental results.
 
-[Project Suggestions (PDF)]({{< baseurl >}}/resources/mit15_097s12_project)
+{{% resource_link 0c1cbff3-a11c-f951-7c44-e304425d6b94 "Project Suggestions (PDF)" %}}
 
 Project Components
 ------------------
@@ -37,12 +41,12 @@ Student Projects
 
 Projects are courtesy of anonymous MIT students, unless specified otherwise, and are used with permission.
 
-[Online k-Means Clustering of Nonstationary Data (PDF)]({{< baseurl >}}/resources/mit15_097s12_proj1), by Angie King
+{{% resource_link 29119365-aa01-195c-8960-9e2895eed4f3 "Online k-Means Clustering of Nonstationary Data (PDF)" %}}, by Angie King
 
-[A Profitable Approach to Security Analysis Using Machine Learning (PDF)]({{< baseurl >}}/resources/mit15_097s12_proj2)
+{{% resource_link ade34bae-a92a-97d2-df44-91faa6e8aa2b "A Profitable Approach to Security Analysis Using Machine Learning (PDF)" %}}
 
-[Operator-defined SUAV Classification Tree Algorithms for Waypoint Prediction and Increased Use of Autonomy (PDF - 1.3MB)]({{< baseurl >}}/resources/mit15_097s12_proj3), by Philip Root
+{{% resource_link ce13ee1e-33ee-9792-b978-754aa6b51629 "Operator-defined SUAV Classification Tree Algorithms for Waypoint Prediction and Increased Use of Autonomy (PDF - 1.3MB)" %}}, by Philip Root
 
-[Improving Tools for Medical Statistics (PDF)]({{< baseurl >}}/resources/mit15_097s12_proj4), by Jacqueline Soegaard
+{{% resource_link 6b2d2647-dfcd-f072-8337-c31a1d92f4b3 "Improving Tools for Medical Statistics (PDF)" %}}, by Jacqueline Soegaard
 
-[DC Programming: The Optimization Method You Never Knew You Had to Know (PDF)]({{< baseurl >}}/resources/mit15_097s12_proj5)
+{{% resource_link 06d402cb-88ff-2cdb-8e69-b66a5c864b92 "DC Programming: The Optimization Method You Never Knew You Had to Know (PDF)" %}}

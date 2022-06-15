@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of transfusion.
-file: /media/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/11362c491905bb50be248e9ea77987d2_transfusion_info.txt
+file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/11362c491905bb50be248e9ea77987d2_transfusion_info.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: transfusion_info.txt
 uid: 11362c49-1905-bb50-be24-8e9ea77987d2
 ---
+This is a special file of transfusion.
+

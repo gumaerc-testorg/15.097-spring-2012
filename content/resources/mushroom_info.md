@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of mushroom.
-file: /media/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/574a3672c66d4f4004ef6e5c5342b355_mushroom_info.txt
+file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/574a3672c66d4f4004ef6e5c5342b355_mushroom_info.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: mushroom_info.txt
 uid: 574a3672-c66d-4f40-04ef-6e5c5342b355
 ---
+This is a special file of mushroom.
+
