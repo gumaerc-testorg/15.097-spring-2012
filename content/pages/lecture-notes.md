@@ -1,170 +1,80 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with the lecture notes from each session.
+draft: false
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5143e461-83a2-7e30-b040-7e1cb73ce3ae
+video_metadata:
+  youtube_id: null
 ---
-
 These lecture notes occasionally refer to slides, such as at the end of lectures 5 and 7. These slides are not available on MIT OpenCourseWare.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-[Rule mining and the Apriori algorithm (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec01)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link eb02afbd-0a9c-3263-7dd6-4cdb6b76c2f1 "Rule mining and the Apriori algorithm (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[R for machine learning (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec02)
-
-(Courtesy of Allison Chang. Used with permission.)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link be146ce1-af9c-60a5-0ee7-d07f0e3b421f "R for machine learning (PDF)" %}} (Courtesy of Allison Chang. Used with permission.)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-[Fundamentals of learning (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec03)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link fe006691-8443-f4a2-b929-edd72f03355f "Fundamentals of learning (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-[Inference (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec04)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link dec694eb-3479-9f6b-ea2e-91b1c06551a0 "Inference (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
-[Clustering (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec05)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link ea5208e2-e97b-364b-190c-456fe3bc56d9 "Clustering (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-[k-nearest neighbors (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec06)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 31acd233-8cdc-d636-d159-9c98a7bf1743 "k-nearest neighbors (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-[Naïve Bayes (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec07)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link e7ba1816-a11a-73a3-a9b4-a9e68bd00501 "Naïve Bayes (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
-[Decision trees (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec08)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link f5678de0-e329-ce09-7fc6-ec6182ebaea2 "Decision trees (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
-[Logistic regression (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec09)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 6cf16fe0-e60b-5eaa-fb91-b5a00f62559c "Logistic regression (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
-[Boosting (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec10)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link bd132620-7712-d907-fe34-18bcc9043b55 "Boosting (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
-[Convex optimization (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec11)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 3c580801-bf99-c95e-fc05-59294eb9d2e2 "Convex optimization (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
-[Support vector machines (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec12)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 39f6c97e-482b-96ab-a75c-59b4ac0d99b8 "Support vector machines (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
-[Kernels (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit15_097s12_lec13)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+[Kernels (PDF)]({{< baseurl >}}/resources/mit15\_097s12\_lec13)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
-[Statistical learning theory (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec14)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 3f3332b7-6e82-4822-6fb2-285b91cfc6db "Statistical learning theory (PDF)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Bayesian analysis (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15_097s12_lec15)
-
-(Courtesy of Ben Letham. Used with permission.)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 553a0822-984b-08bc-6113-06c93533a0a3 "Bayesian analysis (PDF - 1.2MB)" %}} (Courtesy of Ben Letham. Used with permission.)
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
