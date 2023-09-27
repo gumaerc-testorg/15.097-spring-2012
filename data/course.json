@@ -48,8 +48,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "7522627e-aade-44ba-a92a-6e1755eb6ec9",
+  "site_uid": "312dbae3-a02a-4454-aa78-f4c620ec2c5e",
+  "site_short_id": "15.097-spring-2012",
   "title": "Course Metadata"
 }
