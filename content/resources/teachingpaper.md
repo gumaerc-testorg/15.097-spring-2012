@@ -2,6 +2,7 @@
 content_type: resource
 description: "Teaching \"Prediction: Machine learning and Statistics\u201D"
 file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/75c8fbbffcd56165e94003eed6f154da_TeachingPaper.pdf
+file_size: 325877
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

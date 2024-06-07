@@ -2,6 +2,7 @@
 content_type: resource
 description: 15.097 was taught in this classroom during Spring 2012.
 file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/60d533fd8eacec54723aa8b6d3673df9_15.097_classroom.jpg
+file_size: 74446
 file_type: image/jpeg
 image_metadata:
   caption: ''
