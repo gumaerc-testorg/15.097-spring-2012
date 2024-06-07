@@ -118,15 +118,15 @@ Additional References (Optional)
 
 Russell, Stuart, and Peter Norvig. _Artificial Intelligence: A Modern Approach_. 3rd ed. Prentice Hall, 2009. ISBN: 9780136042594.
 
-Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction_. 2nd ed. Springer, 2009. ISBN: 9780387848570. \[Preview with {{% resource_link "a75ad796-bd5c-4546-ae45-c2f349f2a3a5" "Google Books" %}}\]
+Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction_. 2nd ed. Springer, 2009. ISBN: 9780387848570. \[Preview with [Google Books](http://books.google.com/books?id=tVIjmNS3Ob8C&printsec=frontcover)\]
 
 Cristianini, Nello, and John Shawe-Taylor. _An Introduction to Support Vector Machines and Other Kernel-based Learning Methods_. Cambridge University Press, 2000. ISBN: 9780521780193.
 
 Gelman, Andrew, et al. _Bayesian Data Analysis_. 2nd ed. Chapman and Hall/CRC, 2003. ISBN: 9781584883883.
 
-Bousquet, Olivier, Stéphane Boucheron, and Gábor Lugosi. {{% resource_link "f505d7a5-95df-488d-81e0-21662a8c435a" "_Introduction to Statistical Learning Theory_. (PDF)" %}}
+Bousquet, Olivier, Stéphane Boucheron, and Gábor Lugosi. [_Introduction to Statistical Learning Theory_. (PDF)](http://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
 
-Wu, Xindong, et al. {{% resource_link "a4edae05-4fe5-4edd-bf71-56d92f94bc9c" "\"Top 10 Algorithms in Data Mining.\" (PDF)" %}} _Knowledge and Information Systems_ 14 (2008): 1-37.
+Wu, Xindong, et al. ["Top 10 Algorithms in Data Mining." (PDF)](https://link.springer.com/article/10.1007/s10115-007-0114-2) _Knowledge and Information Systems_ 14 (2008): 1-37.
 
 Course Material
 ---------------
