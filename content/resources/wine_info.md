@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file of wine.
 file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/195aef8a9332ab8039231d4c96e6dea1_wine_info.txt
+file_size: 3035
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
