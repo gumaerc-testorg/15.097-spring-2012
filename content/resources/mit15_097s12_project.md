@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about final project.
-file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/0c1cbff3a11cf9517c44e304425d6b94_MIT15_097S12_project.pdf
+file: /ol-ocw-studio-app/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/0c1cbff3a11cf9517c44e304425d6b94_MIT15_097S12_project.pdf
 file_size: 97033
 file_type: application/pdf
 learning_resource_types:
