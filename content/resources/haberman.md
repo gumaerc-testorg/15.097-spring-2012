@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of haberman.
-file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/175026784438565323909373d4c06c1f_haberman.csv
+file: /ol-ocw-studio-app/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/175026784438565323909373d4c06c1f_haberman.csv
 file_size: 3407
 file_type: text/comma-separated-values
 learning_resource_types: []

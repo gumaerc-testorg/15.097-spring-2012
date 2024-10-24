@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file of digits information. '
-file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/d1cfd95258db2d252fd921b39805907d_digits_info.txt
+file: /ol-ocw-studio-app/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/d1cfd95258db2d252fd921b39805907d_digits_info.txt
 file_size: 4952
 file_type: text/plain
 learning_resource_types: []
