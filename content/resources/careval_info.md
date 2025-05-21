@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of careval.
-file: /ol-ocw-studio-app/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/65cc8232926ddcbfb7dbd30e67679229_careval_info.txt
+file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/65cc8232926ddcbfb7dbd30e67679229_careval_info.txt
 file_size: 3096
 file_type: text/plain
 learning_resource_types: []

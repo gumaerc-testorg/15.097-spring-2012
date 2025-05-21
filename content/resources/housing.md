@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of housing.
-file: /ol-ocw-studio-app/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/95bc584e411a014b3ac1cbe9c9b557c5_housing.txt
+file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/95bc584e411a014b3ac1cbe9c9b557c5_housing.txt
 file_size: 49081
 file_type: text/plain
 learning_resource_types: []
