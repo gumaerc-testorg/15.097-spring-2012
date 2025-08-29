@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of mushroom.
-file: /courses/15-097-prediction-machine-learning-and-statistics-spring-2012/574a3672c66d4f4004ef6e5c5342b355_mushroom_info.txt
+file: /ol-ocw-studio-app/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/574a3672c66d4f4004ef6e5c5342b355_mushroom_info.txt
 file_size: 6815
 file_type: text/plain
 learning_resource_types: []
