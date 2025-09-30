@@ -72,7 +72,7 @@ Mostly graduate students
 
 ### Breakdown by Major
 
-Predominantly students from the [Operations Research Center](http://www.mit.edu/~orc/)
+Predominantly students from the {{% resource_link "ea95c7e9-a403-4218-b940-662453718e66" "Operations Research Center" %}}
 
 ### Typical Student Background
 
